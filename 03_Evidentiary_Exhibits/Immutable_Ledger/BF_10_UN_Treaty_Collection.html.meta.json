@@ -1,0 +1,27 @@
+{
+  "url": "https://treaties.un.org/",
+  "final_url": "https://treaties.un.org/",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 164609,
+  "sha256": "8bfcc3e17559f34b0f420aa52dc3b59944598bb0ca746c9db88da77c5a02c38b",
+  "captured_at": "2026-11-21T21:44:03.623123Z",
+  "custodian": "OpenCode/harvest_public_sources.py",
+  "country": "Burkina Faso",
+  "iso": "BF",
+  "title": "UN Treaty Collection",
+  "headers": {
+    "Date": "Sat, 21 Nov 2026 21:46:43 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Content-Length": "164609",
+    "Connection": "close",
+    "Set-Cookie": "ASP.NET_SessionId=df2uobegldgme4tmmtu4eiu1; path=/; secure; HttpOnly; SameSite=Lax",
+    "Cache-Control": "private",
+    "x-frame-options": "SAMEORIGIN",
+    "X-AspNet-Version": "4.0.30319",
+    "Request-Context": "appId=cid-v1:34aefb44-12a4-4541-955a-72cc5cdf4863",
+    "Access-Control-Expose-Headers": "Request-Context",
+    "X-Powered-By": "ASP.NET",
+    "Strict-Transport-Security": "max-age=31536000"
+  }
+}
