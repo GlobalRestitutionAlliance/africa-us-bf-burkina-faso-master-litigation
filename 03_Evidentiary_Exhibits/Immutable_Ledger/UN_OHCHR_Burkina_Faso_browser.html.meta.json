@@ -1,0 +1,15 @@
+{
+  "url": "https://www.ohchr.org/en/countries/burkina-faso",
+  "final_url": "https://www.ohchr.org/en/countries/burkina-faso",
+  "title": "UN OHCHR Burkina Faso",
+  "fetched_at": "2026-11-23T01:29:13.801291Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 60020,
+  "sha256": "6c0bb4ec3f9ff6558c1002709a9b833918c66cb3e65f5d372fdb0e83437fd9ad",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "status_note": "Browser fallback capture; public/unauthenticated; content may be landing/404/challenge page; not verified."
+}

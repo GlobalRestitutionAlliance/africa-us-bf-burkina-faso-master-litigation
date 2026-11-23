@@ -1,0 +1,15 @@
+{
+  "url": "https://data.worldbank.org/country/burkina-faso",
+  "final_url": "https://data.worldbank.org/country/burkina-faso",
+  "title": "World Bank Burkina Faso",
+  "fetched_at": "2026-11-23T01:30:10.874487Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 60013,
+  "sha256": "34fef0e7c5046af82a595bd571e948bdbf4add26b49fc318c317f5b136b78bb8",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "status_note": "Browser fallback capture; public/unauthenticated; content may be landing/404/challenge page; not verified."
+}
