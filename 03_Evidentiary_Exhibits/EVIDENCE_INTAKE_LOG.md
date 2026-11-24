@@ -35,24 +35,6 @@
 | 2026-11-22 | Wikisource.html | https://en.wikisource.org/ | OpenCode/harvest | f1f02568e88c7f7327e2592f2cd8064cc67353af713a715cbfe36eaa2f0fe50a | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=131944 |
 | 2026-11-22 | US_Govt_Publishing_Office.html | https://www.govinfo.gov/ | OpenCode/harvest | 2afbc7eda2fb8bd786e4fa221fcfb9740604902b8a053e61d9d36a20f20993b7 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=65676 |
 
-| 2026-11-22 | French_National_Archives_public_portal.html | https://www.archives-nationales.culture.gouv.fr/ | OpenCode/harvest | e7cf8c9c80bac0ba01156deece634152a7320c9d9bdfc0de4fe579e70ec601f1 | PUBLIC_CAPTURE_UNAUTHENTICATED | direct-http http_status=200 bytes=79946 final_url=https://www.archives-nationales.culture.gouv.fr/ |
-
-| 2026-11-22 | UN_OHCHR_Burkina_Faso_browser.html | https://www.ohchr.org/en/countries/burkina-faso | OpenCode/browser-fallback | 6c0bb4ec3f9ff6558c1002709a9b833918c66cb3e65f5d372fdb0e83437fd9ad | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
-| 2026-11-22 | UN_Digital_Library_browser.html | https://digitallibrary.un.org/ | OpenCode/browser-fallback | ba2e21845ed7d4fcb513b1b8c617782561653ff34c4a46dec77d4ba8673e9f86 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
-| 2026-11-22 | Library_of_Congress_-_Burkina_Faso_browser.html | https://www.loc.gov/item/?q=burkina+faso+colonial+forced+labor | OpenCode/browser-fallback | 34180102ce6f661669a363751a373d9a93500a8f5745cc9df613ec0087f7a26c | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
-| 2026-11-22 | HathiTrust_Digital_Library_browser.html | https://babel.hathitrust.org/ | OpenCode/browser-fallback | a2cd41a3810590c63b4ce5a22a618838486c40db063fc812a1863ed6498c2594 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
-| 2026-11-22 | Chronicling_America_LOC_browser.html | https://chroniclingamerica.loc.gov/ | OpenCode/browser-fallback | 278136037714ce8fdd265e34218ee915842e5e47a44dd74f1aabf198ff14d2bd | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
-| 2026-11-22 | World_Bank_Burkina_Faso_browser.html | https://data.worldbank.org/country/burkina-faso | OpenCode/browser-fallback | 34fef0e7c5046af82a595bd571e948bdbf4add26b49fc318c317f5b136b78bb8 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
-| 2026-11-22 | Justia_browser.html | https://www.justia.com/ | OpenCode/browser-fallback | 38fa45a027f6eac050d9e686c3b096e8fa54f122a18fa83c09ec60340a9e6a48 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
-| 2026-11-22 | CourtListener_browser.html | https://www.courtlistener.com/ | OpenCode/browser-fallback | 54b1f50a95a8caf76faa1bd638ee797ed8d0b32d40daed1d453878669b5d530c | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
 ## Intake Rules
 - Record source URL, access date, downloader, file hash, and storage path.
 - No authenticated claim without custodian/legal review.
